@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1527326939 source:c:\users\stoia\desktop\proiect_part1\culori.c
+	<stdio.h>
+	"culori.h"
+
+1527326812 c:\users\stoia\desktop\proiect_part1\culori.h
+
+1527326865 source:c:\users\stoia\desktop\proiect_part1\main.c
+	<stdio.h>
+	<conio.h>
+	"culori.h"
+
